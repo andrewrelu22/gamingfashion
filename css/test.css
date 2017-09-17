@@ -209,12 +209,13 @@ img {
 .contact form label {
   text-transform:uppercase;
 }
-
-.login-relu{
-  text-align:center;
-  padding:300px;
+/* LOG IN */
+.relu-login{
+  margin-top:50px;
+  margin-bottom:50px;
   float:center;
 }
+
 /* MEDIA QUERIES */
 @media(max-wdith:800px){
   #showcase h2{
